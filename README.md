@@ -6,5 +6,6 @@ Made a basic [React Router](https://github.com/remix-run/react-router) SPA with 
 
 Run with
 
+### `npm install`
 ### `npm start`
 
